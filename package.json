@@ -1,0 +1,24 @@
+{
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "name": "one-di-trip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tanakorn_taveethavorn.js",
+  "type" : "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slowhandc1ap/One-di-trip.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slowhandc1ap/One-di-trip/issues"
+  },
+  "homepage": "https://github.com/slowhandc1ap/One-di-trip#readme"
+}
